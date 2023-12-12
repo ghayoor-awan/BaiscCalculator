@@ -1,0 +1,3 @@
+# BasicCalculator
+# Both by Instantiation and Direct Approach
+Developed a fundamental calculator system utilizing an XC3S700AN-4FGG484C FPGA Board, employing four slide switches as two-bit operands, and four push buttons for arithmetic operations (addition, subtraction, multiplication, and division). Leveraging LED outputs, successfully implemented basic arithmetic operations based on user input, utilizing both direct computation and module instantiation/Chain Link methods. Achieved accurate results by executing operations such as addition through straightforward processes, displaying proficiency in FPGA-based logic design and computation within hardware environments.
